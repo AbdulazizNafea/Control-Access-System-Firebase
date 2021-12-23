@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.ttt{
+  border: 1px solid #282c34;
+
+}
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +40,5 @@
     transform: rotate(360deg);
   }
 }
+
+
